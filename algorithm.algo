@@ -1,0 +1,11 @@
+ALGORITHM linear_search
+VAR
+   tab := array ;
+i , j:= INTEGER = 0 ;
+
+BEGIN
+   for (i = 1; i < unsorted.length; i++) { value = unsorted[i]; int j = i; 
+   while (j > 0 && unsorted[j - 1] > value) 
+
+  unsorted[j] = value;
+END
